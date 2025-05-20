@@ -27,8 +27,6 @@ github.com/golang/mock v1.6.0/go.mod h1:p6yTPP+5HYm5mzsMV8JkE6ZKdX+/wYM6Hr+Licev
 github.com/google/gofuzz v1.0.0/go.mod h1:dBl0BpW6vV/+mYPU4Po3pmUjxk6FQPldtuIdl/M65Eg=
 github.com/google/uuid v1.4.0 h1:MtMxsa51/r9yyhkyLsVeVt0B+BGQZzpQiTQ4eHZ8bc4=
 github.com/google/uuid v1.4.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
-github.com/hold7techs/go-shim v0.1.0 h1:2nF5e2ygm5oik23XCORuTIvIoq/cPkrdbBx9nnjp+8s=
-github.com/hold7techs/go-shim v0.1.0/go.mod h1:wjg+ykRgVKXS9Qc/wxyj9Oj4xl/QaueoG67y7Y31P9g=
 github.com/hold7techs/goval v0.2.0 h1:pslMevsLymTMNlZgLBRlYfb+AXjc+l2OSUNWP71X+4Y=
 github.com/hold7techs/goval v0.2.0/go.mod h1:NZeqvladkWIa1lIot8bbbkuwzV7bsZG8P92Dx0wWNH8=
 github.com/jinzhu/inflection v1.0.0 h1:K317FqzuhWc8YvSVlFMCCUb36O/S9MCKRDI7QkRKD/E=
